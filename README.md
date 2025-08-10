@@ -20,7 +20,6 @@
 ## 🚀 What I’m into
 - **Software Engineering:** clean code, readable APIs, and small utilities
 - **Game Development:** Unity 2D/3D, gameplay systems, UI, build pipelines
-- **AI/ML:** hands-on learning with Python notebooks and small models
 
 ---
 
