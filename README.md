@@ -35,7 +35,7 @@
 
 ## 🔭 Featured Projects
 - **Flight Management System (C++)** — OOP app for flights & passengers, STL + CSV persistence  
-  👉 Repo: <a href="https://github.com/IamSDAM/Flight-Manager">mini-flight-manager</a>
+  👉 Repo: <a href="https://github.com/IamSDAM/Flight-Manager">Flight-Manager</a>
 - **Jumping Guy (Unity 2D)** — platformer prototype, collisions, UI, parallax, audio  
   👉 Repo: <a href="https://github.com/IamSDAM/Unity_2D_Game">Unity_2D_Game</a> • *(Web build coming soon)*
 
