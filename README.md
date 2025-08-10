@@ -18,8 +18,11 @@
 ---
 
 ## 🚀 What I’m into
-- **Software Engineering:** clean code, readable APIs, and small utilities
-- **Game Development:** Unity 2D/3D, gameplay systems, UI, build pipelines
+- **Software Development** – Crafting clean, efficient, and scalable code.  
+- **Game Development** – Building interactive 2D/3D experiences in Unity & C#.  
+- **Cloud Computing** – Learning AWS and cloud-based deployment workflows.  
+- **UI/UX Design** – Creating intuitive interfaces that blend functionality and visual appeal.  
+- **Continuous Learning** – Always leveling up through courses, challenges, and real-world projects.  
 
 ---
 
